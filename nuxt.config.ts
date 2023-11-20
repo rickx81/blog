@@ -7,6 +7,8 @@ export default defineNuxtConfig({
   ],
   app: {
     rootId: 'nuxt-root',
+    baseURL: '/blog/', // baseURL: '/<repository>/'
+    buildAssetsDir: '/static/',
     head: {
       meta: [
         { name: 'description', content: 'My blog site.' },
