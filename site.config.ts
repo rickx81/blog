@@ -23,7 +23,7 @@ export const subNavLinks = [
 export const socialLinks = [
   {
     title: 'Github',
-    path: 'https://github.com/Zeesu1',
+    path: 'https://github.com/rickx81',
     icon: 'i-icon-park-outline:github',
   },
 ]
